@@ -16,17 +16,14 @@ The first day will be held in the lab (C487 Dualbeltlab). We will start at 09:00
 The dualbeltlab is located at the VU, in the Medical Faculty Building (Van der Boechorststraat 7, 71081 HV Amsterdam) in Amsterdam. There will be introductions into all relevant practical aspects of the project. We will also have a look at the current status of the project. All equipment will be available for testing. 
 We will cover:
 
-9:00-10:30        1. Home assessment by Charlotte
-
-11:00 - 12:30     2. Clinical tests (MDS-UPDRS, MoCA, TMT, ...) by Fabio and Julius
-
-12:30             Lunch
-
-13:30 - 15:00     3. EEG by Julius
-15:00 - 16:00     4. EMG by Etienne Marteau               
-16:00 - 17:00     5. Motion capture by Johannes Baaken
-17:00 - 17:30     6. Recording a trial
-17:30 - 18:00     7. Cleaning up
+1. Home assessment by Charlotte (9:00-10:30)
+2. Clinical tests (MDS-UPDRS, MoCA, TMT, ...) by Fabio and Julius (11:00 - 12:30)
+3. Lunch
+4. EEG by Julius (13:30 - 15:00)
+5. EMG by Etienne Marteau (15:00 - 16:00)               
+6. Motion capture by Johannes Baaken (16:00 - 17:00)
+7. Recording a trial (17:00 - 17:30)
+8. Cleaning up (17:30 - 18:00)
 
 ### Day 2 (Friday, 23rd of feburary)
 The second day will be held hybrid with some people in the VU (Room: Salutem 2) and some people joining online. We will start at 9:00 and end after the last lecture has finished.
@@ -37,19 +34,18 @@ The day will consist of presentations and discussions. We will cover:
 | 9:00  | Introduction              | Jaap          | 10:00           | 19:00            |
 | 9:30  | Walking Tall              | Matt          | 10:30           | 19:30            |
 | 10:00 | Break                     |               | 11:00           | 20:00            |
-| 10:15 | ?                         | ?             | 11:15           | 20:15            |
+| 10:15 | Home assessment           | Charlotte     | 11:15           | 20:15            |
 | 10:45 | Multivariate statistics   | Fabio         | 11:45           | 20:45            |
 | 11:15 | Break                     |               | 12:15           | 21:15            |
 | 11:30 | EEG                       | Bernadette    | 12:30           | 21:30            |
-| 12:00 | ?                         | ?             | 13:00           | 22:00            |
+| 12:00 | VR                        | Shahar        | 13:00           | 22:00            |
 | 12:30 | Lunch                     |               | 13:30           | 22:30            |
-| 13:30 | Home assessment           | Charlotte     | 14:30           | 23:30            |
+| 13:30 | BIDS                      | Julius        | 14:30           | 23:30            |
 | 14:00 | Joint Angles              | Karolina      | 15:00           | 00:00 (next day) |
 | 14:30 | ?                         | ?             | 15:30           | 00:30 (next day) |
 | 15:00 | Break                     |               | 16:00           | 01:00 (next day) |
-| 15:30 | VR                        | Shahar        | 16:30           | 01:30 (next day) |
-| 16:00 | BIDS                      | Julius        | 17:00           | 02:00 (next day) |
-| 16:30 | ?                         | ?             | 17:30           | 02:30 (next day) |
+| 15:30 | Discussion                | Everyone      | 16:30           | 01:30 (next day) |
+
 
 All slides and materials will be made avaliable online after the meeting.
 
