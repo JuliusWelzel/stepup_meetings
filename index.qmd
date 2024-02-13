@@ -17,6 +17,7 @@ The dualbeltlab is located at the VU, in the Medical Faculty Building (Van der B
 We will cover:
 
 9:00-10:30        1. Home assessment by Charlotte
+
 11:00 - 12:30     2. Clinical tests (MDS-UPDRS, MoCA, TMT, ...) by Fabio and Julius
 
 12:30             Lunch
