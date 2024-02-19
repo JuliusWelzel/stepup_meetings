@@ -12,11 +12,11 @@ The meeting will be held from the 22nd to 24th of feburary in amsterdam.
 The first day will consist of pratical work in the lab. The second day will be a full day of presentations and discussions. The third day will be fun.
 
 ### Day 1 (Thursday, 22nd of feburary)
-The first day will be held in the lab (C487 Dualbeltlab). We will start at 09:00 and end at around 18:00 (times below are merely an indication, except for the lunch which will be at 12:30).
+The first day will be held in the lab (C478 Dualbeltlab at the fourth floor & the loopzaal at the 6th floor). We will start at 09:00 and end at around 18:00 (times below are merely an indication, except for the lunch which will be at 12:30).
 The dualbeltlab is located at the VU, in the Medical Faculty Building (Van der Boechorststraat 7, 71081 HV Amsterdam) in Amsterdam. There will be introductions into all relevant practical aspects of the project. We will also have a look at the current status of the project. All equipment will be available for testing. 
 We will cover:
 
-1. Home assessment by Charlotte (9:00-10:30)
+1. Home assessment by Charlotte (9:00-10:30, loopzaal)
 2. Clinical tests (MDS-UPDRS, MoCA, TMT, ...) by Fabio and Julius (11:00 - 12:30)
 3. Lunch (MFB466)
 4. EEG by Julius (13:30 - 15:00)
