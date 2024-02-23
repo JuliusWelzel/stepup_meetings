@@ -3,7 +3,7 @@ title: First joint StepuP meeting
 ---
 
 # Welcome
-Welcome to the first joint StepuP meeting. In this meeting we will give you a short overview of the project and the current status. We will also introduce some of the people involved in the project. 
+Welcome to the first joint StepuP meeting. In this meeting we will give you a short overview of the project and the current status. We will also introduce some of the people involved in the project.
 
 ![](lab.jpg){width="50%" fig-align="center"}
 
@@ -13,14 +13,14 @@ The first day will consist of pratical work in the lab. The second day will be a
 
 ### Day 1 (Thursday, 22nd of feburary)
 The first day will be held in the lab (C478 Dualbeltlab at the fourth floor & the loopzaal at the 6th floor). We will start at 09:00 and end at around 18:00 (times below are merely an indication, except for the lunch which will be at 12:30).
-The dualbeltlab is located at the VU, in the Medical Faculty Building (Van der Boechorststraat 7, 71081 HV Amsterdam) in Amsterdam. There will be introductions into all relevant practical aspects of the project. We will also have a look at the current status of the project. All equipment will be available for testing. 
+The dualbeltlab is located at the VU, in the Medical Faculty Building (Van der Boechorststraat 7, 71081 HV Amsterdam) in Amsterdam. There will be introductions into all relevant practical aspects of the project. We will also have a look at the current status of the project. All equipment will be available for testing.
 We will cover:
 
 1. Home assessment by Charlotte (9:00-10:30, loopzaal)
 2. Clinical tests (MDS-UPDRS, MoCA, TMT, ...) by Fabio and Julius (11:00 - 12:30)
 3. Lunch (MFB466)
 4. EEG by Julius (13:30 - 15:00)
-5. EMG by Etienne Marteau (15:00 - 16:00)               
+5. EMG by Etienne Marteau (15:00 - 16:00)
 6. Motion capture by Johannes Baaken (16:00 - 17:00)
 7. Recording a trial (17:00 - 17:30)
 8. Cleaning up (17:30 - 18:00)
@@ -40,10 +40,11 @@ The day will consist of presentations and discussions. We will cover:
 | 11:30 | EEG                       | Bernadette    | 12:30           | 21:30            |
 | 12:00 | VR                        | Pablo         | 13:00           | 22:00            |
 | 12:30 | Lunch                     |               | 13:30           | 22:30            |
-| 13:30 | BIDS                      | Julius        | 14:30           | 23:30            |
+| 13:30 | Foot placement training   | Moira         | 14:30           | 23:30            |
 | 14:00 | Joint Angles              | Karolina      | 15:00           | 00:00 (next day) |
 | 14:30 | Home assessment           | Charlotte     | 15:30           | 00:30 (next day) |
 | 15:00 | Break                     |               | 16:00           | 01:00 (next day) |
+| 15:30 | BIDS                      | BIDS          | 16:30           | 01:30 (next day) |
 | 15:30 | Discussion                | Everyone      | 16:30           | 01:30 (next day) |
 
 
