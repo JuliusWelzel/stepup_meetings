@@ -44,7 +44,7 @@ The day will consist of presentations and discussions. We will cover:
 | 14:00 | Joint Angles              | Karolina      | 15:00           | 00:00 (next day) |
 | 14:30 | Home assessment           | Charlotte     | 15:30           | 00:30 (next day) |
 | 15:00 | Break                     |               | 16:00           | 01:00 (next day) |
-| 15:30 | BIDS                      | BIDS          | 16:30           | 01:30 (next day) |
+| 15:30 | BIDS                      | Julius        | 16:30           | 01:30 (next day) |
 | 15:30 | Discussion                | Everyone      | 16:30           | 01:30 (next day) |
 
 
