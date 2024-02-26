@@ -31,7 +31,7 @@ The day will consist of presentations and discussions. We will cover:
 
 | Time  | Topic                     | Speaker       | Time (Tel Aviv) | Time (Sydney)    | Slides                                      |
 |-------|-----------------          |---------------|-----------------|------------------|---------------------------------------------|
-| 9:00  | Introduction              | Jaap          | 10:00           | 19:00            |          |
+| 9:00  | Introduction              | Jaap          | 10:00           | 19:00            | [Link](slides/Stepup2024_Introduction_Jaap.pdf)  |
 | 9:30  | Walking Tall              | Matt          | 10:30           | 19:30            |        |
 | 10:00 | Break                     |               | 11:00           | 20:00            |                                             |
 | 10:15 | EEG artefacts Q&A         | EEG experts   | 11:15           | 20:15            |           |
@@ -40,7 +40,7 @@ The day will consist of presentations and discussions. We will cover:
 | 11:30 | EEG                       | Bernadette    | 12:30           | 21:30            | [Link](slides/Stepup2024_EEG_Bernadette.pdf) |
 | 12:00 | VR                        | Pablo         | 13:00           | 22:00            |                        |
 | 12:30 | Lunch                     |               | 13:30           | 22:30            |                                              |
-| 13:30 | Foot placement training   | Moira         | 14:30           | 23:30            |    |
+| 13:30 | Foot placement training   | Moira         | 14:30           | 23:30            | [Link](slides/Stepup2024_FootPlacement_Moira.pdf)   |
 | 14:00 | Joint Angles              | Karolina      | 15:00           | 00:00 (next day) | [Link](slides/Stepup2024_cyclograms_Karolina.pdf) |
 | 14:30 | Home assessment           | Charlotte     | 15:30           | 00:30 (next day) | [Link](slides/Stepup2024_HomeAsessment_Charlotte.pdf)      |
 | 15:00 | Break                     |               | 16:00           | 01:00 (next day) |                                             |
