@@ -36,12 +36,12 @@ The day will consist of presentations and discussions. We will cover:
 | 10:00 | Break                     |               | 11:00           | 20:00            |                                             |
 | 10:15 | EEG artefacts Q&A         | EEG experts   | 11:15           | 20:15            |           |
 | 10:45 | Multivariate statistics   | Fabio         | 11:45           | 20:45            |   |
-| 11:15 | Break                     |               | 12:15           | 21:15            |                                             |
-| 11:30 | EEG                       | Bernadette    | 12:30           | 21:30            | [Link](slides/Stepup2024_EEG_Bernadette.pdf)                       |
+| 11:15 | Break                     |               | 12:15           | 21:15            |                                              |
+| 11:30 | EEG                       | Bernadette    | 12:30           | 21:30            | [Link](slides/Stepup2024_EEG_Bernadette.pdf) |
 | 12:00 | VR                        | Pablo         | 13:00           | 22:00            |                        |
-| 12:30 | Lunch                     |               | 13:30           | 22:30            |                                             |
+| 12:30 | Lunch                     |               | 13:30           | 22:30            |                                              |
 | 13:30 | Foot placement training   | Moira         | 14:30           | 23:30            |    |
-| 14:00 | Joint Angles              | Karolina      | 15:00           | 00:00 (next day) |            |
+| 14:00 | Joint Angles              | Karolina      | 15:00           | 00:00 (next day) | [Link](slides/Stepup2024_cyclograms_Karolina.pdf) |
 | 14:30 | Home assessment           | Charlotte     | 15:30           | 00:30 (next day) |          |
 | 15:00 | Break                     |               | 16:00           | 01:00 (next day) |                                             |
 | 15:30 | BIDS                      | Julius        | 16:30           | 01:30 (next day) | [Link](https://juliuswelzel.github.io/bids_amsterdam_2024/#/title-slide) |
