@@ -35,7 +35,7 @@ The day will consist of presentations and discussions. We will cover:
 | 9:30  | Walking Tall              | Matt          | 10:30           | 19:30            |        |
 | 10:00 | Break                     |               | 11:00           | 20:00            |                                             |
 | 10:15 | EEG artefacts Q&A         | EEG experts   | 11:15           | 20:15            |           |
-| 10:45 | Multivariate statistics   | Fabio         | 11:45           | 20:45            |   |
+| 10:45 | Multivariate statistics   | Fabio         | 11:45           | 20:45            | [Link](slides/Stepup2024_statistics_Fabio.pdf)  |
 | 11:15 | Break                     |               | 12:15           | 21:15            |                                              |
 | 11:30 | EEG                       | Bernadette    | 12:30           | 21:30            | [Link](slides/Stepup2024_EEG_Bernadette.pdf) |
 | 12:00 | VR                        | Pablo         | 13:00           | 22:00            |                        |
