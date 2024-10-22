@@ -8,10 +8,10 @@ Welcome to the second StepuP meeting. In this meeting we will host some workshop
 ![](treadmill_walking.jpg){width="50%" fig-align="center"}
 
 ## Timetable
-The meeting will be held on the 1st and 2nd of november in Zurich.
+The meeting will be held on the 29th and 30th of November in Zurich.
 The first day will consist of pratical data analysis and short presentations. The second day will be a full day of fun.
 
-### Day 1 (Thursday, 22nd of feburary)
+### Day 1 (Friday, 29th of November)
 
 The first day will be held hybrid ( [Zoom link](https://uni-kiel.zoom-x.de/j/2918653959?pwd=dDhiclU1RVlpSmhyVDlvZU03czczUT09) ) with some people in Zürich and some people joining online. We will start at 7:30 am localtime and end after the last lecture has finished.
 The day will consist of presentations and discussions. We will cover:
@@ -38,7 +38,7 @@ The day will consist of presentations and discussions. We will cover:
 All slides and materials will be made avaliable online after the meeting.
 
 ## Location
-The meeting will be held at the [VU](http://www.vu.nl/en/index.aspx) in Amsterdam.
+The meeting will be held at the [ETH](https://www.ethz.ch/en/index.aspx) in Zürich.
 
 ## Transportation
 If you are familiar with using a bike, the best way to get around in Amsterdam is by bike. Renting a bike is therefore recommended (Stay safe though! Cycling in Amsterdam can be quite challenging due to crowded traffic).
@@ -51,4 +51,4 @@ If you want to stay in Amsterdam, we recommend these two accomodations:
 
 ## Organizers
 
-The meeting is organized by [Charlotte](mailto:charlotte.lang@hest.ethz.ch?subject=StepuP%20meeting)
+The meeting is organized by [Charlotte](mailto:charlotte.lang@hest.ethz.ch?subject=StepuP%20meeting) and [Deepak](mailto:deepak.ravi@hest.ethz.ch?subject=StepuP%20meeting)
