@@ -1,0 +1,71 @@
+---
+title: First joint StepuP meeting // Amsterdam 2024
+---
+
+# Welcome
+Welcome to the first joint StepuP meeting. In this meeting we will give you a short overview of the project and the current status. We will also introduce some of the people involved in the project.
+
+![](lab.jpg){width="50%" fig-align="center"}
+
+## Timetable
+The meeting will be held from the 22nd to 24th of feburary in amsterdam.
+The first day will consist of pratical work in the lab. The second day will be a full day of presentations and discussions. The third day will be fun.
+
+### Day 1 (Thursday, 22nd of feburary)
+The first day will be held in the lab (C478 Dualbeltlab at the fourth floor & the loopzaal at the 6th floor). We will start at 09:00 and end at around 18:00 (times below are merely an indication, except for the lunch which will be at 12:30).
+The dualbeltlab is located at the VU, in the Medical Faculty Building (Van der Boechorststraat 7, 71081 HV Amsterdam) in Amsterdam. There will be introductions into all relevant practical aspects of the project. We will also have a look at the current status of the project. All equipment will be available for testing.
+We will cover:
+
+1. Home assessment by Charlotte (9:00-10:30, loopzaal)
+2. Clinical tests (MDS-UPDRS, MoCA, TMT, ...) by Fabio and Julius (11:00 - 12:30)
+3. Lunch (MFB466)
+4. EEG by Julius (13:30 - 15:00)
+5. EMG by Etienne Marteau (15:00 - 16:00)
+6. Motion capture by Johannes Baaken (16:00 - 17:00)
+7. Recording a trial (17:00 - 17:30)
+8. Cleaning up (17:30 - 18:00)
+
+### Day 2 (Friday, 23rd of feburary)
+The second day will be held hybrid ( [Zoom link](https://uni-kiel.zoom-x.de/j/2918653959?pwd=dDhiclU1RVlpSmhyVDlvZU03czczUT09) )with some people in the VU (Room: Salutem 2) and some people joining online. We will start at 9:00 and end after the last lecture has finished.
+The day will consist of presentations and discussions. We will cover:
+
+| Time  | Topic                     | Speaker       | Time (Tel Aviv) | Time (Sydney)    | Slides                                      |
+|-------|-----------------          |---------------|-----------------|------------------|---------------------------------------------|
+| 9:00  | Introduction              | Jaap          | 10:00           | 19:00            | [Link](slides/Stepup2024_Introduction_Jaap.pdf)  |
+| 9:30  | Walking Tall              | Matt          | 10:30           | 19:30            |        |
+| 10:00 | Break                     |               | 11:00           | 20:00            |                                             |
+| 10:15 | EEG artefacts Q&A         | EEG experts   | 11:15           | 20:15            |           |
+| 10:45 | Multivariate statistics   | Fabio         | 11:45           | 20:45            | [Link](slides/Stepup2024_statistics_Fabio.pdf)  |
+| 11:15 | Break                     |               | 12:15           | 21:15            |                                              |
+| 11:30 | EEG                       | Bernadette    | 12:30           | 21:30            | [Link](slides/Stepup2024_EEG_Bernadette.pdf) |
+| 12:00 | VR                        | Pablo         | 13:00           | 22:00            |                        |
+| 12:30 | Lunch                     |               | 13:30           | 22:30            |                                              |
+| 13:30 | Foot placement training   | Moira         | 14:30           | 23:30            | [Link](slides/Stepup2024_FootPlacement_Moira.pdf)   |
+| 14:00 | Joint Angles              | Karolina      | 15:00           | 00:00 (next day) | [Link](slides/Stepup2024_cyclograms_Karolina.pdf) |
+| 14:30 | Home assessment           | Charlotte     | 15:30           | 00:30 (next day) | [Link](slides/Stepup2024_HomeAsessment_Charlotte.pdf)      |
+| 15:00 | Break                     |               | 16:00           | 01:00 (next day) |                                             |
+| 15:30 | BIDS                      | Julius        | 16:30           | 01:30 (next day) | [Link](https://juliuswelzel.github.io/bids_amsterdam_2024/#/title-slide) |
+| 15:30 | Discussion                | Everyone      | 16:30           | 01:30 (next day) |                                             |
+
+
+All slides and materials will be made avaliable online after the meeting.
+
+### Day 3 (Saturday, 24th of feburary)
+The third day will be all about social sports activities. From 10:30-12:00 we will play the first StepuP basketball tournament at [Sportcentrum Uilenstede](https://sportcentrumvu.nl/en/).
+After lunch, there will be an opportunity to join a typical Dutch sports activity as well: ice skating! For this we will meet at the [Jaap Eden baan](https://www.jaapeden.nl/).
+
+## Location
+The meeting will be held at the [VU](http://www.vu.nl/en/index.aspx) in Amsterdam.
+
+## Transportation
+If you are familiar with using a bike, the best way to get around in Amsterdam is by bike. Renting a bike is therefore recommended (Stay safe though! Cycling in Amsterdam can be quite challenging due to crowded traffic).
+Alternatively the use of the public transport (trams, buses) is recommended. You can check in and out (don't forget to check out) with your bank card.
+
+## Accomodation
+If you want to stay in Amsterdam, we recommend these two accomodations:
+-   [Amsterdam South hotel](https://www.citizenm.com/hotels/europe/amsterdam/amsterdam-south-hotel) (close to the VU)
+-   [Hotel Jansen Schinkel](https://hoteljansen.nl/) (cheaper, more student like)
+
+## Organizers
+
+The meeting is organized by [Moira](mailto:a.m.van.leeuwen@vu.nl?subject=StepuP%20meeting) and [Julius](mailto:j.welzel@neurologie.uni-kiel.de?subject=StepuP%20meeting)

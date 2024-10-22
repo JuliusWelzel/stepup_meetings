@@ -1,32 +1,19 @@
 ---
-title: First joint StepuP meeting
+title: Second joint StepuP meeting // Amsterdam 2024
 ---
 
 # Welcome
-Welcome to the first joint StepuP meeting. In this meeting we will give you a short overview of the project and the current status. We will also introduce some of the people involved in the project.
+Welcome to the second StepuP meeting. In this meeting we will host some workshops and hands on sessions to analyse EEG, EMG and motion capture data.
 
-![](lab.jpg){width="50%" fig-align="center"}
+![](treadmill_walking.jpg){width="50%" fig-align="center"}
 
 ## Timetable
-The meeting will be held from the 22nd to 24th of feburary in amsterdam.
-The first day will consist of pratical work in the lab. The second day will be a full day of presentations and discussions. The third day will be fun.
+The meeting will be held on the 1st and 2nd of november in Zurich.
+The first day will consist of pratical data analysis and short presentations. The second day will be a full day of fun.
 
 ### Day 1 (Thursday, 22nd of feburary)
-The first day will be held in the lab (C478 Dualbeltlab at the fourth floor & the loopzaal at the 6th floor). We will start at 09:00 and end at around 18:00 (times below are merely an indication, except for the lunch which will be at 12:30).
-The dualbeltlab is located at the VU, in the Medical Faculty Building (Van der Boechorststraat 7, 71081 HV Amsterdam) in Amsterdam. There will be introductions into all relevant practical aspects of the project. We will also have a look at the current status of the project. All equipment will be available for testing.
-We will cover:
 
-1. Home assessment by Charlotte (9:00-10:30, loopzaal)
-2. Clinical tests (MDS-UPDRS, MoCA, TMT, ...) by Fabio and Julius (11:00 - 12:30)
-3. Lunch (MFB466)
-4. EEG by Julius (13:30 - 15:00)
-5. EMG by Etienne Marteau (15:00 - 16:00)
-6. Motion capture by Johannes Baaken (16:00 - 17:00)
-7. Recording a trial (17:00 - 17:30)
-8. Cleaning up (17:30 - 18:00)
-
-### Day 2 (Friday, 23rd of feburary)
-The second day will be held hybrid ( [Zoom link](https://uni-kiel.zoom-x.de/j/2918653959?pwd=dDhiclU1RVlpSmhyVDlvZU03czczUT09) )with some people in the VU (Room: Salutem 2) and some people joining online. We will start at 9:00 and end after the last lecture has finished.
+The first day will be held hybrid ( [Zoom link](https://uni-kiel.zoom-x.de/j/2918653959?pwd=dDhiclU1RVlpSmhyVDlvZU03czczUT09) ) with some people in Zürich and some people joining online. We will start at 7:30 am localtime and end after the last lecture has finished.
 The day will consist of presentations and discussions. We will cover:
 
 | Time  | Topic                     | Speaker       | Time (Tel Aviv) | Time (Sydney)    | Slides                                      |
@@ -50,10 +37,6 @@ The day will consist of presentations and discussions. We will cover:
 
 All slides and materials will be made avaliable online after the meeting.
 
-### Day 3 (Saturday, 24th of feburary)
-The third day will be all about social sports activities. From 10:30-12:00 we will play the first StepuP basketball tournament at [Sportcentrum Uilenstede](https://sportcentrumvu.nl/en/).
-After lunch, there will be an opportunity to join a typical Dutch sports activity as well: ice skating! For this we will meet at the [Jaap Eden baan](https://www.jaapeden.nl/).
-
 ## Location
 The meeting will be held at the [VU](http://www.vu.nl/en/index.aspx) in Amsterdam.
 
@@ -68,4 +51,4 @@ If you want to stay in Amsterdam, we recommend these two accomodations:
 
 ## Organizers
 
-The meeting is organized by [Moira](mailto:a.m.van.leeuwen@vu.nl?subject=StepuP%20meeting) and [Julius](mailto:j.welzel@neurologie.uni-kiel.de?subject=StepuP%20meeting)
+The meeting is organized by [Charlotte](mailto:charlotte.lang@hest.ethz.ch?subject=StepuP%20meeting)
