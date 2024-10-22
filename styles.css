@@ -1,0 +1,27 @@
+/* css styles */
+/* Position the logo at the bottom right of the page */
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin: 0;
+    padding-bottom: 60px; /* Adjust based on logo size to avoid overlap with content */
+}
+footer.custom-logo {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+/* Adjust the size of the logo */
+footer.custom-logo img {
+    width: 120px; /* Set the width as needed */
+    height: auto;
+}
+
+.navbar {
+    background-color: #006685; /* set the main color */
+}
