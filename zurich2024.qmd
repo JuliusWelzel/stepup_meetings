@@ -13,29 +13,21 @@ The first day will consist of pratical data analysis and short presentations. Th
 
 ### Day 1 (Friday, 29th of November)
 
-The first day will be held hybrid ( [Zoom link](https://uni-kiel.zoom-x.de/j/2918653959?pwd=dDhiclU1RVlpSmhyVDlvZU03czczUT09) ) with some people in Zürich and some people joining online. We will start at 7:30 am localtime and end after the last lecture has finished.
-The day will consist of presentations and discussions. We will cover:
+The first day will be held hybrid ( [Zoom link](https://ethz.zoom.us/j/62034078463) ) with some people in Zürich and some people joining online. We will start at 8:00 am localtime and end after the last lecture has finished.
+The day will consist of presentations and hands-on analysis. We will cover:
 
-| Time  | Topic                     | Speaker       | Time (Tel Aviv) | Time (Sydney)    | Slides                                      |
-|-------|-----------------          |---------------|-----------------|------------------|---------------------------------------------|
-| 9:00  | Introduction              | Jaap          | 10:00           | 19:00            | [Link](slides/Stepup2024_Introduction_Jaap.pdf)  |
-| 9:30  | Walking Tall              | Matt          | 10:30           | 19:30            |        |
-| 10:00 | Break                     |               | 11:00           | 20:00            |                                             |
-| 10:15 | EEG artefacts Q&A         | EEG experts   | 11:15           | 20:15            |           |
-| 10:45 | Multivariate statistics   | Fabio         | 11:45           | 20:45            | [Link](slides/Stepup2024_statistics_Fabio.pdf)  |
-| 11:15 | Break                     |               | 12:15           | 21:15            |                                              |
-| 11:30 | EEG                       | Bernadette    | 12:30           | 21:30            | [Link](slides/Stepup2024_EEG_Bernadette.pdf) |
-| 12:00 | VR                        | Pablo         | 13:00           | 22:00            |                        |
-| 12:30 | Lunch                     |               | 13:30           | 22:30            |                                              |
-| 13:30 | Foot placement training   | Moira         | 14:30           | 23:30            | [Link](slides/Stepup2024_FootPlacement_Moira.pdf)   |
-| 14:00 | Joint Angles              | Karolina      | 15:00           | 00:00 (next day) | [Link](slides/Stepup2024_cyclograms_Karolina.pdf) |
-| 14:30 | Home assessment           | Charlotte     | 15:30           | 00:30 (next day) | [Link](slides/Stepup2024_HomeAsessment_Charlotte.pdf)      |
-| 15:00 | Break                     |               | 16:00           | 01:00 (next day) |                                             |
-| 15:30 | BIDS                      | Julius        | 16:30           | 01:30 (next day) | [Link](https://juliuswelzel.github.io/bids_amsterdam_2024/#/title-slide) |
-| 15:30 | Discussion                | Everyone      | 16:30           | 01:30 (next day) |                                             |
-
+| Time (CEST)   | Topic                           | Speaker         | Time (Tel Aviv) | Time (Sydney)    |
+|---------------|---------------------------------|-----------------|-----------------|------------------|
+| 08:00 - 08:15 | Revisiting primary aims and outcomes of StepuP | Sjoerd Bruijn  | 09:00           | 18:00            |
+| 08:15 - 09:00 | BIDS                            | Julius Welzel   | 09:15           | 18:15            |
+| 09:00 - 10:00 | WP4: Qualitative methods        | Husna Razee     | 10:00           | 19:00            |
+| 10:00 - 10:45 | WP2: Foot placement control     | Moira Leeuwen   | 11:00           | 20:00            |
+| 10:45 - 11:00 | Coffee Break                    |                 | 11:45           | 20:45            |
+| 11:00 - 11:45 | WP2: Corticomuscular coherence  | Moira Leeuwen   | 12:00           | 21:00            |
+| 11:45 - 12:15 | WP3: Daily life outcomes        | Charlotte Lang  | 12:45           | 21:45            |
 
 All slides and materials will be made avaliable online after the meeting.
+In the afternoon we will perform analysis on example datasets and brainstorm.
 
 ## Location
 The meeting will be held at the [ETH](https://www.ethz.ch/en/) in Zürich.
