@@ -1,5 +1,5 @@
 ---
-title: Second joint StepuP meeting // Amsterdam 2024
+title: Second joint StepuP meeting // Zürich 2024
 ---
 
 # Welcome
@@ -41,6 +41,9 @@ If you want to stay in Zürich, we recommend these two accomodations:
 -   [ibis Styles Zurich City Center](https://all.accor.com/hotel/B5J7/index.de.shtml) (close to ETH)
 -   [25hours Hotel Zürich West](https://all.accor.com/hotel/B145/index.de.shtml)
 -   [Guesthouse fürDich](https://en.fuerdich.ch/guesthouse) (cheaper, more hostel like)
+
+## Additional Information
+Please note that Switzerland uses type "J" power sockets, which are not compatible with standard European laptop charging cables. Therefore, if you have a universal adapter, be sure to bring it with you. 
 
 ## Organizers
 
