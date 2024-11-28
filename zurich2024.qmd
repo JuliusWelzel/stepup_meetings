@@ -16,15 +16,15 @@ The first day will consist of pratical data analysis and short presentations. Th
 The first day will be held hybrid ( [Zoom link](https://ethz.zoom.us/j/62034078463) ) with some people in Zürich and some people joining online. We will start at 8:00 am localtime and end after the last lecture has finished.
 The day will consist of presentations and hands-on analysis. We will cover:
 
-| Time (CEST)   | Topic                           | Speaker         | Time (Tel Aviv) | Time (Sydney)    |
-|---------------|---------------------------------|-----------------|-----------------|------------------|
-| 08:00 - 08:15 | Revisiting primary aims and outcomes of StepuP | Sjoerd Bruijn  | 09:00           | 18:00            |
-| 08:15 - 09:00 | BIDS                            | Julius Welzel   | 09:15           | 18:15            |
-| 09:00 - 10:00 | WP4: Qualitative methods        | Husna Razee     | 10:00           | 19:00            |
-| 10:00 - 10:45 | WP2: Foot placement control     | Moira Leeuwen   | 11:00           | 20:00            |
-| 10:45 - 11:00 | Coffee Break                    |                 | 11:45           | 20:45            |
-| 11:00 - 11:45 | WP2: Corticomuscular coherence  | Moira Leeuwen   | 12:00           | 21:00            |
-| 11:45 - 12:15 | WP3: Daily life outcomes        | Charlotte Lang  | 12:45           | 21:45            |
+| Time (CEST)   | Topic                           | Speaker         | Time (Tel Aviv) | Time (Sydney)    | Slides |
+|---------------|---------------------------------|-----------------|-----------------|------------------|--------|
+| 08:00 - 08:15 | Revisiting primary aims and outcomes of StepuP | Sjoerd Bruijn  | 09:00           | 18:00            |        |
+| 08:15 - 09:00 | BIDS                            | Julius Welzel   | 09:15           | 18:15            | [Link](slides/WS24_zurich_bids_welzel.pdf)       |
+| 09:00 - 10:00 | WP4: Qualitative methods        | Husna Razee     | 10:00           | 19:00            |        |
+| 10:00 - 10:45 | WP2: Foot placement control     | Moira Leeuwen   | 11:00           | 20:00            |        |
+| 10:45 - 11:00 | Coffee Break                    |                 | 11:45           | 20:45            |        |
+| 11:00 - 11:45 | WP2: Corticomuscular coherence  | Moira Leeuwen   | 12:00           | 21:00            |        |
+| 11:45 - 12:15 | WP3: Daily life outcomes        | Charlotte Lang  | 12:45           | 21:45            |        |
 
 All slides and materials will be made avaliable online after the meeting.
 In the afternoon we will perform analysis on example datasets and brainstorm.
