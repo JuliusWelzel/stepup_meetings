@@ -28,13 +28,13 @@ The day will consist of presentations and hands-on analysis. We will cover:
 ### Materials
 Please download the materials (data & code) for the hands-on session in the afternoon here:
 
-    - BIDS example ([Code](https://github.com/StepuP-consortium/stepup_bids_converter) and [Data](https://cloud.rz.uni-kiel.de/index.php/s/rjTPpC2dKwFjiW8))
+-   BIDS example ([Code](https://github.com/StepuP-consortium/stepup_bids_converter) and [Data](https://cloud.rz.uni-kiel.de/index.php/s/rjTPpC2dKwFjiW8))
 All slides and materials will be made avaliable online after the meeting.
 In the afternoon we will perform analysis on example datasets and brainstorm.
 
-    - Foot placement and EEG ([Data](https://surfdrive.surf.nl/files/index.php/s/sxZU6wVAQsjYitX))
+-   Foot placement and EEG ([Data](https://surfdrive.surf.nl/files/index.php/s/sxZU6wVAQsjYitX))
 
-    - Home assessment ([Data](https://polybox.ethz.ch/index.php/s/ntKGAiODKDX4LzV))
+-   Home assessment ([Data](https://polybox.ethz.ch/index.php/s/ntKGAiODKDX4LzV))
 
 Please have Matlab pre-installed on your laptop with the following Toolboxes: FieldTrip Toolbox, Signal Processing Toolbox, Statistics and Machine Learning Toolbox, MATLAB Report Generator (optional, but not essential).
 
@@ -47,6 +47,7 @@ Alternatively the use of the public transport (trams, buses) is recommended. The
 
 ## Accomodation
 If you want to stay in Zürich, we recommend these two accomodations:
+
 -   [ibis Styles Zurich City Center](https://all.accor.com/hotel/B5J7/index.de.shtml) (close to ETH)
 -   [25hours Hotel Zürich West](https://all.accor.com/hotel/B145/index.de.shtml)
 -   [Guesthouse fürDich](https://en.fuerdich.ch/guesthouse) (cheaper, more hostel like)
