@@ -8,13 +8,15 @@ website:
     background: primary
     pinned: true
     left:
+      - text: Bologna 2026
+        href: index.qmd
       - text: Zurich 2024
         href: zurich2024.qmd
       - text: Amsterdam 2024
         href: amsterdam2024.qmd
 
   page-footer: 
-    left: "Copyright 2024, Julius Welzel" 
+    left: "Copyright 2026, Julius Welzel" 
 
 
 format:
