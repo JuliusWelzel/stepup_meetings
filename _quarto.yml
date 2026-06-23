@@ -9,7 +9,7 @@ website:
     pinned: true
     left:
       - text: Bologna 2026
-        href: index.qmd
+        href: bologna2026.qmd
       - text: Zurich 2024
         href: zurich2024.qmd
       - text: Amsterdam 2024
