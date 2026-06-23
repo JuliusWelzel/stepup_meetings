@@ -2,6 +2,8 @@
 title: StepuP Consortium Meeting // Bologna 2026
 ---
 
+![](stepup_logo.jpg){width="50%" fig-align="center"}
+
 # Welcome
 Welcome to the StepuP Consortium Meeting in Bologna. Over two days we will share the StepuP experience and preliminary results, align on the analysis plan, and present ongoing scientific work. There will also be time for social activities and the first StepuP Olympics.
 
@@ -23,7 +25,7 @@ The first day covers the StepuP experience, preliminary results and the analysis
 | 08:45 – 09:10 | Arrival                |
 | 09:10 – 09:30 | Welcome                |
 
-#### StepuP experience and preliminary results
+#### Part 1 - StepuP experience and preliminary results
 *Chairs: Fabio and Moira (Yoshi and Deepak from 11:00)*
 
 | Time (CEST)   | Topic                                            | Speaker            | Site               | Time (Tel Aviv) | Time (Sydney) | Slides |
@@ -36,14 +38,14 @@ The first day covers the StepuP experience, preliminary results and the analysis
 | 12:00 – 12:30 | Discussion: lessons learned and preliminary results |                 |                    | 13:00           | 20:00         |        |
 | 12:30 – 14:00 | Lunch                                            |                    |                    | 13:30           | 20:30         |        |
 
-#### StepuP analysis plan
+#### Part 2 - StepuP analysis plan
 *Chairs: Jaap and Walter*
 
 | Time (CEST)   | Topic                          | Time (Tel Aviv) | Time (Sydney)     | Slides |
 |---------------|--------------------------------|-----------------|-------------------|--------|
-| 14:00 – 14:40 | WP updates ^[10 min per Work Package (WP)] | 15:00 | 22:00         |        |
-| 14:40 – 15:10 | Primary analyses ^[1 slide presentation for each analysis, outlining aims and methods] | 15:40 | 22:40 |        |
-| 15:10 – 15:40 | Secondary analyses ^[1 slide presentation for each analysis, outlining aims and methods] | 16:10 | 23:10 |        |
+| 14:00 – 14:40 | WP updates (10 min per WP) | 15:00 | 22:00         |        |
+| 14:40 – 15:10 | Primary analyses (1 slide presentation for each analysis, outlining aims and methods) | 15:40 | 22:40 |        |
+| 15:10 – 15:40 | Secondary analyses (1 slide presentation for each analysis, outlining aims and methods) | 16:10 | 23:10 |        |
 | 15:40 – 16:30 | Discussion: analysis plan      | 16:40           | 23:40             |        |
 | 16:30 – 18:00 | StepuP Olympics Game (optional) | 17:30          | 00:30 (next day)  |        |
 
@@ -53,8 +55,8 @@ The first day covers the StepuP experience, preliminary results and the analysis
 |---------------|-----------|-----------------|---------------|
 | 08:30 – 08:40 | Arrival   | 09:30           | 16:30         |
 
-#### Scientific presentations
-*Chairs: Jeff and Luca (Ilaria and Julius from 10:20)*
+#### Part 1 - Scientific presentations
+*Chairs: Jeff and Luca*
 
 | Time (CEST)   | Topic                                                                                  | Speaker          | Time (Tel Aviv) | Time (Sydney) | Slides |
 |---------------|----------------------------------------------------------------------------------------|------------------|-----------------|---------------|--------|
@@ -63,6 +65,10 @@ The first day covers the StepuP experience, preliminary results and the analysis
 | 09:20 – 09:40 | Neurophysiology of Parkinson's Gait                                                     | Julius           | 10:20           | 17:20         |        |
 | 09:40 – 10:00 | Discussion: Scientific Presentations (1)                                                |                  | 10:40           | 17:40         |        |
 | 10:00 – 10:20 | Coffee break                                                                            |                  | 11:00           | 18:00         |        |
+
+#### Part 2 - Scientific presentations
+*Chairs: Ilaria and Julius*
+
 | 10:20 – 10:40 | New perspectives on analysing real-world gait data *(requires further specification)*   | Charlotte        | 11:20           | 18:20         |        |
 | 10:40 – 11:00 | Effects of VR obstacle training on gait in the lab and real-world – A Sydney sub study protocol | Yoshi    | 11:40           | 18:40         |        |
 | 11:00 – 11:20 | Wearables for monitoring, assistance, and rehabilitation of Parkinson's disease         | Luca, Giovanna   | 12:00           | 19:00         |        |
@@ -86,7 +92,7 @@ Organizing committee: Ilaria and Leonardo
 **Sunday 28th**
 
 - Bologna tour @ city centre
-- Dinner h. 19:30 @ *to be defined*
+- Dinner h. 18:30 @ *to be defined*
 
 **Monday 29th**
 
