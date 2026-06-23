@@ -2,7 +2,7 @@
 title: StepuP Consortium Meeting // Bologna 2026
 ---
 
-![](stepup_logo.jpg){width="80%" fig-align="center"}
+![](Logo%20stepup%20072025.pdf){width="80%" fig-align="center"}
 
 # Welcome
 Welcome to the StepuP Consortium Meeting in Bologna. Over two days we will share the StepuP experience and preliminary results, align on the analysis plan, and present ongoing scientific work. There will also be time for social activities and the first StepuP Olympics.
