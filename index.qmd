@@ -69,6 +69,8 @@ The first day covers the StepuP experience, preliminary results and the analysis
 #### Part 2 - Scientific presentations
 *Chairs: Ilaria and Julius*
 
+| Time (CEST)   | Topic                                                                                  | Speaker          | Time (Tel Aviv) | Time (Sydney) | Slides |
+|---------------|----------------------------------------------------------------------------------------|------------------|-----------------|---------------|--------|
 | 10:20 – 10:40 | New perspectives on analysing real-world gait data *(requires further specification)*   | Charlotte        | 11:20           | 18:20         |        |
 | 10:40 – 11:00 | Effects of VR obstacle training on gait in the lab and real-world – A Sydney sub study protocol | Yoshi    | 11:40           | 18:40         |        |
 | 11:00 – 11:20 | Wearables for monitoring, assistance, and rehabilitation of Parkinson's disease         | Luca, Giovanna   | 12:00           | 19:00         |        |
