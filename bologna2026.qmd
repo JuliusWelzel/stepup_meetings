@@ -2,7 +2,7 @@
 title: StepuP Consortium Meeting // Bologna 2026
 ---
 
-![](Logo%20stepup%20072025.pdf){width="80%" fig-align="center"}
+![](logo_stepup_hires.png){width="80%" fig-align="center"}
 
 # Welcome
 Welcome to the StepuP Consortium Meeting in Bologna. Over two days we will share the StepuP experience and preliminary results, align on the analysis plan, and present ongoing scientific work. There will also be time for social activities and the first StepuP Olympics.
@@ -61,7 +61,7 @@ The first day covers the StepuP experience, preliminary results and the analysis
 | Time (CEST)   | Topic                                                                                  | Speaker          | Time (Tel Aviv) | Time (Sydney) | Slides |
 |---------------|----------------------------------------------------------------------------------------|------------------|-----------------|---------------|--------|
 | 08:40 – 09:00 | Advancing Deep Brain Stimulation management through digital technology                  | Ilaria           | 09:40           | 16:40         |        |
-| 09:00 – 09:20 | Beta oscillations in Deep Brain Stimulation for Parkinson's disease                     | Bernardette      | 10:00           | 17:00         |        |
+| 09:00 – 09:20 | Beta oscillations in Deep Brain Stimulation for Parkinson's disease                     | Bernadette      | 10:00           | 17:00         |        |
 | 09:20 – 09:40 | Neurophysiology of Parkinson's Gait                                                     | Julius           | 10:20           | 17:20         |        |
 | 09:40 – 10:00 | Discussion: Scientific Presentations (1)                                                |                  | 10:40           | 17:40         |        |
 | 10:00 – 10:20 | Coffee break                                                                            |                  | 11:00           | 18:00         |        |
@@ -103,9 +103,26 @@ Organizing committee: Ilaria and Leonardo
 The dinners take place in the city center, about a 15-minute walk from the central railway station.
 
 ## Location
-The meeting will be held at the **Institute of Neurological Science @ [Bellaria Hospital](https://maps.app.goo.gl/)**, Via Altura 3, Bologna.
+The meeting will be held at the **Institute of Neurological Science @ [Bellaria Hospital](https://www.google.com/maps/place/Padiglione+G/@44.46433,11.3893636,18z/data=!3m1!5s0x477e2ae33001c55f:0xb90208f6e9f89ae3!4m14!1m7!3m6!1s0x477e2afccb033127:0x6e8b845ae84ba877!2sOspedale+Bellaria!8m2!3d44.4632389!4d11.3904043!16s%2Fg%2F122_4mby!3m5!1s0x477e2b23b1f728e9:0xc07d6b455a0ca981!8m2!3d44.4647524!4d11.3900003!16s%2Fg%2F11r8xch1bv?entry=ttu&g_ep=EgoyMDI2MDYyMS4wIKXMDSoASAFQAw%3D%3D)**, Via Altura 3, Bologna.
+
+- **Meeting Room:** “Montagna”, Building G (1st floor).
 
 Public transport: Lines 36 (from the railway station area) and 90 have stops in front of the main entrance of the hospital.
+
+## Social events
+
+- **Welcome aperitif** @ Lab 16, h. 18:30 (Sunday) – [Via Zamboni 16/D](https://maps.app.goo.gl/53nbXKktTMLqpCNQA)
+- **StepuP dinner** @ Ristorante Nino, h. 19:30 (Monday) – [Via Volturno 9c](https://maps.app.goo.gl/qVWXFuz5APhPqryj8)
+
+## Presentations
+
+- We have created a folder on Research Drive where you can upload your presentation:
+
+  [Bologna_meeting_2026](https://vu.data.surf.nl/apps/files/files/261048580?dir=/FGB_BM_StepuP%20%28Projectfolder%29/meetings_and_conferences/bologna_meeting_2026)
+
+- Alternatively, you can send it directly to me. This will help us ensure smooth transitions between presentations.
+- The Monday afternoon session on data analysis will be divided into two parts.
+- As indicated in the program, each session will be moderated by two chairs, who will facilitate the discussion.
 
 ## Transportation
 
